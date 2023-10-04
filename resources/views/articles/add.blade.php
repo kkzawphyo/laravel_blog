@@ -17,7 +17,7 @@
             <input type="text" name="title" class="form-control">
         </div>
         <div class="mb-3">
-            <div></div>
+            <div>test</div>
             <label>Body</label>
             <textarea name="body" class="form-control"></textarea>
         </div>
